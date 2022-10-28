@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "esp8266 wiegand ZKteco",
+			"path": ".."
+		},
+		{
+			"name": "arduino wiegand ZKteco",
+			"path": "../../arduino wiegand ZKteco"
+		},
+		{
+			"name": "esp8266 MFRC522",
+			"path": "../../esp8266 MFRC522"
+		}
+	],
+	"settings": {}
+}
